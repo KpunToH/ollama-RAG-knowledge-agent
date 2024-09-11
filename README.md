@@ -20,7 +20,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 ```
 
 
-#How to use
+# How to use
 1) Change the path to your documents for RAG
 2) Change your question for LLM+RAG
 3) Run all cells in provided jupyter notebook
