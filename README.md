@@ -3,6 +3,7 @@ Ground for students project on knowledge agents for non-formalized data extracti
 
 # Installation requrements
 Tested on Windows 10 with Nvidia 3080 12GB VRAM + 32 GB RAM, with dataset of documents up to 2Gb.
+You will can get CUDA out-of-memory error with very large dataset with current code and hardware (tests failed on 12 gb dataset)
 You can run this code on CPU, but it will be slower. 
 to do this - Change parts of code with
 ```python
@@ -12,7 +13,7 @@ to
 ```python
 	device:cpu
 ```
-You will can get CUDa out-of-memory error with very large dataset with current code and config (tests failed on 12 gb dataset)
+
 
 # Installation
 1) Install Anaconda suitable for your OS: https://www.anaconda.com/download/
