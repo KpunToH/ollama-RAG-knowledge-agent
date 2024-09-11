@@ -31,8 +31,8 @@ You can easily change the method for chunk separation, local LLM model and promp
 
 # What to read?
 
-This example was created with the help of https://medium.com/@imabhi1216/implementing-rag-using-langchain-and-ollama-93bdf4a9027c
--You can read more about chunking strategies here: https://medium.com/@zilliz_learn/experimenting-with-different-chunking-strategies-via-langchain-694a4bd9f7a5
--You can find the current SOTA local models on bechmarks : https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
--You can find the best embedding models for your language here: https://huggingface.co/spaces/mteb/leaderboard
--You can find additional providers for every component, already integrated into Langchain here: https://python.langchain.com/v0.2/docs/integrations/platforms/
+This example was created with the help of https://medium.com/@imabhi1216/implementing-rag-using-langchain-and-ollama-93bdf4a9027c:
+- You can read more about chunking strategies here: https://medium.com/@zilliz_learn/experimenting-with-different-chunking-strategies-via-langchain-694a4bd9f7a5
+- You can find the current SOTA local models on bechmarks : https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
+- You can find the best embedding models for your language here: https://huggingface.co/spaces/mteb/leaderboard
+- You can find additional providers for every component, already integrated into Langchain here: https://python.langchain.com/v0.2/docs/integrations/platforms/
