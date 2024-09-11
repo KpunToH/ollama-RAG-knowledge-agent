@@ -12,7 +12,7 @@ to
 ```python
 	device:cpu
 ```
-You will get CUDa out-of-memory error with very large dataset with current code and config (tests failed on 12 gb dataset)
+You will can get CUDa out-of-memory error with very large dataset with current code and config (tests failed on 12 gb dataset)
 
 # Installation
 1) Install Anaconda suitable for your OS: https://www.anaconda.com/download/
