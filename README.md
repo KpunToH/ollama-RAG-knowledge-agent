@@ -21,10 +21,10 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 
 #How to use
-Change the path to your documents for RAG
-Change your question for LLM+RAG
-Run all cells in provided jupyter notebook
-Evaluate the answer
+1) Change the path to your documents for RAG
+2) Change your question for LLM+RAG
+3) Run all cells in provided jupyter notebook
+4) Evaluate the answer
 
 #What to tinker
 You can easily change the method for chunk separation, local LLM model and prompt, vector database thanks to Langchain
@@ -32,7 +32,7 @@ You can easily change the method for chunk separation, local LLM model and promp
 # What to read?
 
 This example was created with the help of https://medium.com/@imabhi1216/implementing-rag-using-langchain-and-ollama-93bdf4a9027c
-1)You can read more about chunking strategies here: https://medium.com/@zilliz_learn/experimenting-with-different-chunking-strategies-via-langchain-694a4bd9f7a5
-2)You can find the current SOTA local models on bechmarks : https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
-3)You can find the best embedding models for your language here: https://huggingface.co/spaces/mteb/leaderboard
-4)You can find additional providers for every component, already integrated into Langchain here: https://python.langchain.com/v0.2/docs/integrations/platforms/
+-You can read more about chunking strategies here: https://medium.com/@zilliz_learn/experimenting-with-different-chunking-strategies-via-langchain-694a4bd9f7a5
+-You can find the current SOTA local models on bechmarks : https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
+-You can find the best embedding models for your language here: https://huggingface.co/spaces/mteb/leaderboard
+-You can find additional providers for every component, already integrated into Langchain here: https://python.langchain.com/v0.2/docs/integrations/platforms/
